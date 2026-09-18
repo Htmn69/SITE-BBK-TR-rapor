@@ -1,0 +1,4 @@
+1) Code > Download ZIP
+2) Klasore cikarin
+3) START-PREVIEW.bat
+4) http://localhost:8080
